@@ -20,7 +20,7 @@ que é altamente utilizado por grandes empresas, a fim de proporcionar uma melho
 
 2. Abra-o em no VSCODE ou IDE de sua preferência:
 
-3. Utileze o seguinte comando para buildar
+3. Utilize o seguinte comando para buildar
 
 ```bash
     dotnet build
