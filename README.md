@@ -1,4 +1,4 @@
-# Projeto E-Commerce Shop** 💻
+# Projeto E-Commerce Shop 💻
 
 Este repositório foi criado para exemplificar uma aplicação do uso de CQRS e Mediator na mesma estrutura de uma API .NET. 
 O objetivo da criação desse repositório, foi uma forma de explorar e exemplificar a aplicação do Pattern CQRS(Padrão Arquitetural), 
